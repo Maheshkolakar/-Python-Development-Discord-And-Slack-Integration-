@@ -3,3 +3,5 @@ Created a discord bot that once authentiacted into a server, can print "Hello Wo
 
 reference link read this:
 https://discordpy.readthedocs.io/en/stable/discord.html
+
+Submitted my company assignment on GitHub, bundled in a neat zip file. All the necessary files are included—ready for review and collaboration. 💻 #GitHub #AssignmentSubmission"
